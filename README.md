@@ -1,5 +1,7 @@
 # PyGame-sample-(noobs coding)
+--------------------------------
+It's converse game...
 
-This is a converse game...
+
 
 [STATUS --> ALPHA]
