@@ -1,6 +1,6 @@
 # PyGame-sample-(noobs coding)
 --------------------------------
-It's converse game...
+It's a converse game...
 
 
 
