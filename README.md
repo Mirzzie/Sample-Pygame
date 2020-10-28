@@ -1,5 +1,2 @@
-:::::::::::::::::::::::::::::
-A SIMPLE CONVERSE GAME BY ME
-       lang = python
-:::::::::::::::::::::::::::::       
-       VERSION 1.1
+A Converse Game Written by Python
+          #noobscode
